@@ -1,8 +1,8 @@
 /*
-      Hello World! voor 16x2 LCD display op Geekcreit Uno
+      Hello World! voor 16x2 LCD display on Geekcreit Arduino Uno
       
-      This is the code I use to control the display Hitachi HD44780 compatible 16x2 LCD display
-      from my Chinese "Geekcreit"-brand Arduino clone. The display has a I2C module soldered on the back.
+      This is the code I use to control the Hitachi HD44780 compatible 16x2 LCD display from my
+      Chinese "Geekcreit"-brand Arduino clone. The display has a I2C module soldered on the back.
 
       It is connected like this:
 
