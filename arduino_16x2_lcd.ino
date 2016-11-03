@@ -11,7 +11,7 @@
       LCD: SDA -> Uno: A4
       LCD: SCL -> Uno: A5
       
-      See my blog post at https://oneguyoneblog.com/2016/08/08/geekcreit-uno-16x2-lcd-display/
+      See the blog post at https://oneguyoneblog.com/2016/08/08/geekcreit-uno-16x2-lcd-display/
  */
  
 #include <Wire.h>
